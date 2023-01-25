@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ejAqEWhXohnULYaz9ZFuV95fn1gj7qeiWm5sIYbjis=",
+  "Source": "SecuredApi",
+  "BasePath": "_content/SecuredApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

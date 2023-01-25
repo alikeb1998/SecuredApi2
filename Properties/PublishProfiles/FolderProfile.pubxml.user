@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Projects\Duende\Samples\SecuredApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-01-17T07:09:00.9072491Z;True|2023-01-17T10:34:38.7824838+03:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
